@@ -1,6 +1,5 @@
-# Covid_Vaccine_Availability
-This app gives details about vaccination centers of India.It takes pincode as input from user and displays the nearby vaccination centers along with name of vaccine,
-qty of vaccines available,who is eligible to get the vaccine and during what time of the day is the vaccine available.
+
+## This app gives details about vaccination centers of India.It takes pincode as input from user and based on the date selected by user,it displays the nearby vaccination centers along with name of vaccine,qty of vaccines available,who is eligible to get the vaccine and during what time of the day is the vaccine available.
 
 Details are updated at real time.
 
