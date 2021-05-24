@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.cardview.widget.CardView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_margin="4dp">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="4dp"
+
+    >
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -15,10 +17,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="3dp"
-            android:drawableLeft="@drawable/ic_hospital"
+            android:drawableLeft="@drawable/hospi"
             android:drawablePadding="4dp"
             android:padding="3dp"
-            android:text="Center Name"
+            android:text="Center Name:"
             android:textColor="@color/black" />
 
         <!--text view for displaying center address-->
@@ -31,7 +33,7 @@
             android:drawableLeft="@drawable/ic_location"
             android:drawablePadding="4dp"
             android:padding="3dp"
-            android:text="Center Address"
+            android:text="Center Address:"
             android:textColor="@color/black" />
 
         <!--text view for displaying center timings-->
@@ -44,7 +46,7 @@
             android:drawableLeft="@drawable/ic_time"
             android:drawablePadding="4dp"
             android:padding="3dp"
-            android:text="Timings"
+            android:text="Timings:"
             android:textColor="@color/black" />
 
         <LinearLayout
@@ -65,7 +67,7 @@
                 android:drawableLeft="@drawable/vaccine4"
                 android:drawablePadding="4dp"
                 android:padding="3dp"
-                android:text="Vaccine Name"
+                android:text="Vaccine Name:"
                 android:textColor="@color/black" />
 
             <!--text view for displaying center fees type-->
@@ -77,7 +79,7 @@
                 android:layout_margin="3dp"
                 android:layout_weight="1"
                 android:padding="3dp"
-                android:text="Fee Type"
+                android:text="Fee Type:"
                 android:textAlignment="center"
                 android:textColor="@color/black" />
         </LinearLayout>
@@ -99,7 +101,7 @@
                 android:layout_margin="3dp"
                 android:layout_weight="1"
                 android:padding="3dp"
-                android:text="Age Limit"
+                android:text="Age Limit:"
                 android:textAlignment="center"
                 android:textColor="@color/black" />
 
@@ -112,7 +114,7 @@
                 android:layout_margin="3dp"
                 android:layout_weight="1"
                 android:padding="3dp"
-                android:text="Avaliablity"
+                android:text="Avaliablity:"
                 android:textAlignment="center"
                 android:textColor="@color/black" />
 
