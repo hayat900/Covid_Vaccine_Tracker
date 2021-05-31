@@ -9,4 +9,4 @@ This project is built using android studio and implemented with the help of kotl
 
 To run this project,clone the project and click on run.
 
-![For live demo click here](https://kapwi.ng/c/8qWvmtb9)
+![For live demo click here](Android Emulator.gif)
