@@ -9,4 +9,4 @@ This project is built using android studio and implemented with the help of kotl
 
 To run this project,clone the project and click on run.
 
-[Demo](https://drive.google.com/file/d/1wIFQ2xrcX4v-6R0Bc1hSADOp6Cwmqbaf/view?usp=sharing)
+![For live demo click here]https://github.com/hayat900/Covid_Vaccine_Tracker/blob/master/Android%20Emulator%20-%20Pixel_3a_XL_API_30_5554%202021-05-31%2013-35-44.gif
